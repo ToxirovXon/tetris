@@ -1,15 +1,13 @@
 # Tetris
 A vanilla javascript game
 
-Watch my tutorial [here](https://www.youtube.com/watch?v=GWPGz9hrVMk)
-
 I have kept the styling at a bare miniumum for you to go wild and make it your own. Please tag me as I would LOVE to see your game!!!
 
 Tetris is a tile-matching puzzle game from the 80’s. Try to get your personal high score by moving each of the 5 randomly selected Tetromino shapes sideways and/or rotating by quarter-turns, so that they form a solid horizontal line without gaps. When such a line is formed, it disappears and any blocks above it fall down to fill the space. For each line you will receive 10 points.
  
 This was my first project from General Assembly's Software Engineering Immersive Course. It was also my first time building a project with JavaScript.
 
-![Tetris](https://github.com/kubowania/Tetris/blob/master/images/Tetris%20Game.gif)
+![Tetris](https://github.com/ToxirovXon/tetris.git)
 
 
 
@@ -82,7 +80,7 @@ This was my first project from General Assembly's Software Engineering Immersive
 
 ### MIT Licence
 
-Copyright (c) 2020 Ania Kubow
+Copyright (c) 2020 ToxirovXon
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
 
